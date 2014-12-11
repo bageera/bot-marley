@@ -19,7 +19,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot": "^2.10.0",
     "hubot-slack": "^3.1.0",
-    "cheerio": "*"
+    "cheerio": "^0.18.0"
   },
   "engines": {
     "node": "0.10.x"
